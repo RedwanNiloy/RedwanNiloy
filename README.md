@@ -38,5 +38,12 @@
 
 
 
+
+  <img src="https://raw.githubusercontent.com/RedwanNiloy/RedwanNiloy/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
  
 
