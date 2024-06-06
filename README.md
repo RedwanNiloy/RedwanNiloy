@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently exploring **Cloud Computing,System Design**
+- 🔭 I’m exploring **Cloud Computing (AWS),System Design**
 
 - 🌱 I’m currently learning **Spring Boot,Design Patterns**
 
