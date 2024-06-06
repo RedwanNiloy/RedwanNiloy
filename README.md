@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Redwanur Rahman Akanda</h1>
-<h3 align="center">Problem Solver || Backend Developer || Cloud Computing Enthuasist</h3>
+<h3 align="center">Problem Solver || Backend Developer || DevOps & Cloud Computing Enthuasist</h3>
 <div align="center"><img align="center" alt="Coding" width="400" src="https://i.giphy.com/HzPtbOKyBoBFsK4hyc.webp"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redwanniloy&label=Profile%20views&color=0e75b6&style=flat" alt="redwanniloy" /> </p>
 
