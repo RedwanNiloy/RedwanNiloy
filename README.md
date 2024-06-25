@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Life is fair**
 
-![Leetcode Stats](https://leetcode.com/u/Redwan_Niloy/)
+![](https://leetcard.jacoblin.cool/redwan_niloy?ext=heatmap)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
