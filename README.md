@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **Life is fair**
 
+![Leetcode Stats](https://leetcode.com/u/Redwan_Niloy/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/redwanur-rahman-akanda-6b934b206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="redwanur-rahman-akanda-6b934b206" height="30" width="40" /></a>
