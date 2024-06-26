@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m exploring **Cloud Computing (AWS),System Design**
+- 🔭 I’m exploring **Cloud Computing (AWS), System Design**
 
 - 🌱 I’m currently learning **Spring Boot,Design Patterns**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **redwanniloy161293@gmail.com**
 
-- ⚡ Fun fact **Life is fair**
+- ⚡ Fun fact **Life is fair..HaHa**
 
 ![](https://leetcard.jacoblin.cool/redwan_niloy?ext=heatmap)
 
