@@ -11,9 +11,9 @@
 
 - 🔭 I’m exploring **.NET Core, System Design**
 
-- 🌱 I’m currently learning **Asp.NET,Design Patterns**
+- 🌱 I’m currently learning **Asp.NET, Design Patterns**
 
-- 💬 Ask me about **Problem Solving,Object Oriented Programming**
+- 💬 Ask me about **Problem Solving, Object Oriented Programming**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@redwanniloy161293), [Buy me a coffee](https://buymeacoffee.com/redwanniloy)
 
