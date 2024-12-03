@@ -9,9 +9,9 @@
 
 
 
-- 🔭 I’m exploring **Cloud Computing (AWS), System Design**
+- 🔭 I’m exploring **.NET Core, System Design**
 
-- 🌱 I’m currently learning **Spring Boot,Design Patterns**
+- 🌱 I’m currently learning **Asp.NET,Design Patterns**
 
 - 💬 Ask me about **Problem Solving,Object Oriented Programming**
 
